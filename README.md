@@ -86,4 +86,4 @@ streamlit run app.py
 
 ## Dataset
 
-Based on the [UCI Machine Learning Repository: Concrete Compressive Strength Dataset](https://uci.edu), containing 1,030 concrete formulations across 8 quantitative input features (kg/m³ and curing age in days) and compressive strength (MPa).
+Based on the (https://1drv.ms/b/c/334fe14fb6e58b3c/IQC8DvOQOuSlRrt8gS1gy0gmAV19-ca2njtzALm4nOS0sqk?e=LiMnFU), containing 1,030 concrete formulations across 8 quantitative input features (kg/m³ and curing age in days) and compressive strength (MPa).
