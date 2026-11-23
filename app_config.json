@@ -1,0 +1,15 @@
+{
+  "app_title": "Concrete Compressive Strength Predictor",
+  "model_path": "concrete_strength_pipeline.joblib",
+  "feature_names": [
+    "cement_kg_m3",
+    "blast_furnace_slag_kg_m3",
+    "fly_ash_kg_m3",
+    "water_kg_m3",
+    "superplasticizer_kg_m3",
+    "coarse_aggregate_kg_m3",
+    "fine_aggregate_kg_m3",
+    "age_days"
+  ],
+  "target_name": "compressive_strength_mpa"
+}
