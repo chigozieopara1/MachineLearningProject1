@@ -1,5 +1,7 @@
 # Concrete Compressive Strength Prediction & Cost Optimization
 
+https://machinelearningproject1-uhnlfbns7p7shekg4fxb9p.streamlit.app/
+
 <img width="960" height="423" alt="image" src="https://github.com/user-attachments/assets/79e0f49e-5d27-4d9d-8977-b6f6381ede1b" />
 
 An end-to-end machine learning pipeline and interactive **Streamlit** web application that predicts concrete compressive strength (MPa) and identifies the lowest-cost, structurally safe mix designs.
